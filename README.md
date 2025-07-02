@@ -34,9 +34,7 @@ The goal of this task is to demonstrate the application of HTML, CSS, and JavaSc
 - *JavaScript* – Logic, validation, and dynamic interactivity  
 - *Flexbox & Grid* – For responsive design
 
----
 
-## 🚀 How to Run the Project
 
-1. Clone this repository:
+
 
